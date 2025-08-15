@@ -1,0 +1,6 @@
+apiVersion: v2
+name: docker-s3-fastapi
+description: A Helm chart for deploying Docker S3 FastAPI app
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
